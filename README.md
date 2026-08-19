@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Harshil-Mittal
-- 👀 I’m interested in web development and new technologies
-- 🌱 I’m currently learning Web Development
+- 👀 I’m interested in Artificial Intelligence & Machine Learning
+- 🌱 I’m currently learning RAG
 - 📫 How to reach me: harshilmittal2580@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a really boring guy!
