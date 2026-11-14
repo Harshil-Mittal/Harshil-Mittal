@@ -1,115 +1,19 @@
-<div align="center">
+# Harshil Mittal
 
-<table width="100%">
-<tr>
-<td width="64%" valign="middle">
-<p><sub>RECRUITER SIGNAL BRIEF · harshil-mittal</sub></p>
-<h1>harshil-mittal</h1>
-<h2>Frontend or full-stack engineer</h2>
-<p>Building useful software and sharing the work in public.</p>
-<p><strong>● Building and sharing work in public</strong></p>
+I build AI applications and backend systems.
 
-<p><a href="https://github.com/harshil-mittal">GitHub</a></p>
-</td>
-<td width="36%" valign="middle" align="center">
-<img src="https://avatars.githubusercontent.com/u/140785187?v=4" width="180" alt="harshil-mittal GitHub avatar" />
-</td>
-</tr>
-</table>
-</div>
+Final-year CSE (AI & ML) student at UPES. Incoming SDE at Incedo, January 2027.
 
-<h2>What teams can evaluate quickly</h2>
+[Portfolio](https://harshil-mittal.github.io/) · [LinkedIn](https://www.linkedin.com/in/harshil-mittal-cse/)
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · Jupyter Notebook · TypeScript · HTML</p></td>
-<td width="33%" valign="top"><h3>Public proof</h3><p>21 repositories · 0 stars</p></td>
-<td width="33%" valign="top"><h3>Momentum</h3><p>26 contributions · 8 active days</p></td>
-</tr>
-</table>
+### Selected work
 
-<p><sub>Building useful software and sharing the work in public.</sub></p>
+- **[GitMind](https://github.com/Harshil-Mittal/gitmind)** — Chat with public GitHub repositories using RAG, FastAPI, and ChromaDB.
+- **[DermaVisionAI](https://github.com/Harshil-Mittal/DermaVisionAI)** — A medical imaging chatbot prototype with a React interface and FastAPI backend.
+- **[Helmet Detection](https://github.com/Harshil-Mittal/helmet-detection)** — Video helmet detection with YOLOv8 and OpenCV.
 
-<h2>Proof at a glance</h2>
+### Open source
 
-<table width="100%">
-<tr>
-<td width="25%" align="center"><strong>21</strong><br /><sub>Repositories</sub></td>
-<td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
-<td width="25%" align="center"><strong>26</strong><br /><sub>Contributions</sub></td>
-<td width="25%" align="center"><strong>1</strong><br /><sub>Followers</sub></td>
-</tr>
-</table>
+**[OpenCode #63895](https://github.com/anomalyco/opencode/pull/63895)** — Submitted a fix for settings that fail to save when the configuration contains duplicate keys.
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=harshil-mittal&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F140785187%3Fv%3D4&v=recruiter-stats-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=harshil-mittal&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F140785187%3Fv%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="harshil-mittal GitHub proof metrics" />
-</picture>
-</p>
-
-<h2>Selected work</h2>
-
-<table width="100%">
-<tr>
-<td width="58%" valign="top">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=harshil-mittal&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F140785187%3Fv%3D4&repos=harshil-mittal%2Fgitmind%2Charshil-mittal%2FDermaVisionAI%2Charshil-mittal%2Fhelmet-detection%2Charshil-mittal%2FOwn-Neural-Network&v=recruiter-projects-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=harshil-mittal&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F140785187%3Fv%3D4&repos=harshil-mittal%2Fgitmind%2Charshil-mittal%2FDermaVisionAI%2Charshil-mittal%2Fhelmet-detection%2Charshil-mittal%2FOwn-Neural-Network&v=recruiter-projects-1&mode=dark" width="100%" alt="harshil-mittal selected projects" />
-</picture>
-</td>
-<td width="42%" valign="top">
-<h3><a href="https://github.com/Harshil-Mittal/gitmind">gitmind</a></h3>
-<p>AI-powered tool to chat with any GitHub repository using RAG</p>
-<p><sub>Python · ⭐ 0 · 🍴 0</sub></p>
-<p><a href="https://github.com/Harshil-Mittal/gitmind">Read the repository →</a></p>
-</td>
-</tr>
-</table>
-
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3><a href="https://github.com/Harshil-Mittal/DermaVisionAI">DermaVisionAI</a></h3><p>A selected public project.</p><p><sub>TypeScript · ⭐ 0</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/Harshil-Mittal/helmet-detection">helmet-detection</a></h3><p>A selected public project.</p><p><sub>Python · ⭐ 0</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/Harshil-Mittal/Own-Neural-Network">Own-Neural-Network</a></h3><p>A selected public project.</p><p><sub>Jupyter Notebook · ⭐ 0</sub></p></td>
-</tr>
-</table>
-
-<h2>Technical toolkit</h2>
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=harshil-mittal&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F140785187%3Fv%3D4&v=recruiter-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=harshil-mittal&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F140785187%3Fv%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="harshil-mittal technology stack" />
-</picture>
-</p>
-
-<table width="100%">
-<tr>
-<td width="20%" align="center"><strong>Jupyter Notebook</strong><br /><sub>75% of public code</sub></td>
-<td width="20%" align="center"><strong>TypeScript</strong><br /><sub>16% of public code</sub></td>
-<td width="20%" align="center"><strong>HTML</strong><br /><sub>5% of public code</sub></td>
-<td width="20%" align="center"><strong>Java</strong><br /><sub>2% of public code</sub></td>
-<td width="20%" align="center"><strong>Python</strong><br /><sub>1% of public code</sub></td>
-</tr>
-</table>
-
-<h2>Consistency signal</h2>
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=harshil-mittal&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F140785187%3Fv%3D4&v=recruiter-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=harshil-mittal&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F140785187%3Fv%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="harshil-mittal contribution activity" />
-</picture>
-</p>
-
-<hr />
-
-<table width="100%">
-<tr>
-<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
-<td width="38%" valign="middle" align="right"><a href="https://github.com/harshil-mittal">GitHub</a></td>
-</tr>
-</table>
-
-<p align="center"><sub>harshil-mittal · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<sub>Python · TypeScript · FastAPI · React · PyTorch · OpenCV</sub>
